@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+}
+.vasanth1{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border:black solid 10px;
+
+}
+.vasanth2{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border:black solid 20px;
+  margin-left: 210px;
+}
+.vasanth3{
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  border:black solid 10px;
+  margin-left: 440px;
+}
