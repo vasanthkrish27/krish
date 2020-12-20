@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+  padding:0;
+}
+.a{
+  background-color: purple;
+  width: 100%;
+}
+.a h1{
+  color: white;
+  text-align: center;
+}
+
+.a h2{
+  color: white;
+  text-align: left;
+
+}
+.a h4{
+  color: white;
+  text-align: center;
+}
+.a h3{
+  color: white;
+  text-align: left;
+  margin-left: 10px;
+}
+.a h2{
+  color: white;
+  text-align: left;
+  margin-left: 10px;
+}
+.b{
+  background-color: purple;
+  width: 100%;
+
+}
+.b h3{
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+}
+.c{
+  margin-left: 300px;
+  margin-top: 10px;
+  color: black;
+}
+.d{
+  background-color: purple;
+  width: 100%;
+}
+  .d h3{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+  }
+  table, th, td{
+    border: 1px solid black;
+    text-align: center;
+  }
+  .f{
+    background-color: purple;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+  }
+  .g{
+    margin-left: 300px;
+    margin-top: 10px;
+  }
+  .h{
+    background-color: purple;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+  }
+    .i{
+      margin-left: 300px;
+      margin-top: 10px;
+      color: black;
+    }
+    .j{
+      background-color: purple;
+      width: 100%;
+      text-align: center;
+      color: white;
+      margin-top: 10px;
+    }
+    .k{
+      margin-left: 300px;
+      margin-top: 10px;
+      color: black;
+    }
+    .l{
+      background-color: purple;
+      width: 100%;
+      text-align: center;
+      color: white;
+      margin-top: 10px;
+    }
+    .m{
+      margin-left: 300px;
+      margin-top: 10px;
+      color: black;
+    }
+    .n{
+      background-color: purple;
+      width: 100%;
+      text-align: center;
+      color: white;
+      margin-top: 10px;
+    }
+    .o{
+      text-align: center;
+      margin-left: 150px;
+    }
+    .p{
+      margin-left: 1400px;
+      margin-top: 50px;
+    }
