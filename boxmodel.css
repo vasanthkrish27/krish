@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 10px;
+}
+.header{
+  background: purple;
+  width: 100%;
+  height: 100px;
+}
+.navigation{
+  background: blue;
+  width: 100%;
+  height: 100px;
+  margin-top: 10px;
+
+}
+.section{
+  background: blue;
+  width: 100%;
+  height: 540px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+.slideshow{
+  background: yellow;
+  width: 98%;
+  height: 100px;
+  margin-top: 20px;
+
+
+}
+.footer{
+  background-color: yellow;
+  width: 100%;
+  height: 100px;
+  margin-top: 10px;
+}
+.boxhead{
+  background-color: red;
+  width: 1000px;
+  height: 370px;
+}
+.box{
+  background-color: white;
+  width: 100px;
+  height: 50px;
+  display: inline-flex;
+  padding: 150px;
+  margin: 45px;
+
+
+}
