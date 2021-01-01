@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  height: 200px;
+  background-color: lightgrey;
+  padding-top: 50px;
+}
+.nav-item{
+  color: blue;
+}
+.fakeimage{
+  background: lightgrey;
+  height: 300px;
+}
+footer{
+  background-color: lightblue;
+  height: 200px;
+  text-align: center;
+  padding-top: 50px;
+
+}
