@@ -1,0 +1,324 @@
+[20-Dec-2016 05:31:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/admin.php on line 369
+[20-Dec-2016 05:31:56 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/velunivtech123/public_html/alumnireg/admin.php on line 370
+[20-Dec-2016 05:42:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/admin.php on line 369
+[20-Dec-2016 05:42:49 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/velunivtech123/public_html/alumnireg/admin.php on line 370
+[20-Dec-2016 06:01:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/velunivtech123/public_html/alumnireg/view.php on line 387
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 09:48:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/velunivtech123/public_html/alumnireg/view.php on line 411
+[20-Dec-2016 13:15:12 UTC] PHP Warning:  require(fpdf.php): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/export1.php on line 8
+[20-Dec-2016 13:15:12 UTC] PHP Warning:  require(fpdf.php): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/export1.php on line 8
+[20-Dec-2016 13:15:12 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/velunivtech123/public_html/alumnireg/export1.php on line 8
+[20-Dec-2016 13:22:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/export1.php on line 81
+[20-Dec-2016 13:31:37 UTC] PHP Warning:  include(helvetica.php): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 1143
+[20-Dec-2016 13:31:37 UTC] PHP Warning:  include(helvetica.php): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 1143
+[20-Dec-2016 13:31:37 UTC] PHP Warning:  include(): Failed opening 'helvetica.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 1143
+[20-Dec-2016 13:31:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Could not include font definition file' in /home/velunivtech123/public_html/alumnireg/fpdf.php:271
+Stack trace:
+#0 /home/velunivtech123/public_html/alumnireg/fpdf.php(1145): FPDF->Error('Could not inclu...')
+#1 /home/velunivtech123/public_html/alumnireg/fpdf.php(459): FPDF->_loadfont('helvetica.php')
+#2 /home/velunivtech123/public_html/alumnireg/fpdf.php(507): FPDF->AddFont('helvetica', '')
+#3 /home/velunivtech123/public_html/alumnireg/export1.php(106): FPDF->SetFont('Arial', '', 6)
+#4 {main}
+  thrown in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 271
+[20-Dec-2016 13:35:25 UTC] PHP Fatal error:  Class 'DBController' not found in /home/velunivtech123/public_html/alumnireg/export1.php on line 13
+[20-Dec-2016 13:35:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/velunivtech123/public_html/alumnireg/export1.php on line 9
+[20-Dec-2016 13:35:57 UTC] PHP Fatal error:  Call to a member function runQuery() on resource in /home/velunivtech123/public_html/alumnireg/export1.php on line 14
+[20-Dec-2016 13:36:30 UTC] PHP Fatal error:  Call to a member function runQuery() on resource in /home/velunivtech123/public_html/alumnireg/export1.php on line 14
+[20-Dec-2016 13:37:41 UTC] PHP Warning:  include(helveticab.php): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 1143
+[20-Dec-2016 13:37:41 UTC] PHP Warning:  include(helveticab.php): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 1143
+[20-Dec-2016 13:37:41 UTC] PHP Warning:  include(): Failed opening 'helveticab.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 1143
+[20-Dec-2016 13:37:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Could not include font definition file' in /home/velunivtech123/public_html/alumnireg/fpdf.php:271
+Stack trace:
+#0 /home/velunivtech123/public_html/alumnireg/fpdf.php(1145): FPDF->Error('Could not inclu...')
+#1 /home/velunivtech123/public_html/alumnireg/fpdf.php(459): FPDF->_loadfont('helveticab.php')
+#2 /home/velunivtech123/public_html/alumnireg/fpdf.php(507): FPDF->AddFont('helvetica', 'B')
+#3 /home/velunivtech123/public_html/alumnireg/export1.php(20): FPDF->SetFont('Arial', 'B', 12)
+#4 {main}
+  thrown in /home/velunivtech123/public_html/alumnireg/fpdf.php on line 271
+[26-Dec-2016 12:58:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/velunivtech123/public_html/alumnireg/responsephoto.php:64) in /home/velunivtech123/public_html/alumnireg/responsephoto.php on line 224
+[26-Dec-2016 13:19:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/velunivtech123/public_html/alumnireg/responsephoto.php:64) in /home/velunivtech123/public_html/alumnireg/responsephoto.php on line 228
+[26-Dec-2016 13:22:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/velunivtech123/public_html/alumnireg/responsephoto.php:64) in /home/velunivtech123/public_html/alumnireg/responsephoto.php on line 230
+[26-Dec-2016 11:15:39 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:15:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBsE3Zh' to '/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:20:06 UTC] PHP Warning:  move_uploaded_file(http://veltechuniv.edu.in/alumnireg/alumnimemories//Desert.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:20:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZJriBB' to 'http://veltechuniv.edu.in/alumnireg/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:25:48 UTC] PHP Warning:  move_uploaded_file(http://veltechuniv.edu.in/alumnireg/alumnimemories//Desert.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:25:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuUPjJq' to 'http://veltechuniv.edu.in/alumnireg/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:25:48 UTC] PHP Warning:  move_uploaded_file(http://veltechuniv.edu.in/alumnireg/alumnimemories//Desert.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:25:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZFB8rz' to 'http://veltechuniv.edu.in/alumnireg/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:27:45 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Chrysanthemum.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:27:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTU9RR7' to '/alumnimemories//Chrysanthemum.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:27:45 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:27:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplnvNMn' to '/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:28:56 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:28:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBk3Iwa' to '/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:28:56 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Hydrangeas.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:28:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5BhuDV' to '/alumnimemories//Hydrangeas.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:32:59 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:32:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvWHkPg' to '/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:32:59 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:32:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHpDpNA' to '/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:43:53 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:43:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqShJFi' to '/alumnimemories//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:43:53 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//Hydrangeas.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:43:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppwEpWD' to '/alumnimemories//Hydrangeas.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpApkRnc' to '/alumnimemories//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTcNQI7' to '/alumnimemories//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:45:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:47:23 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:47:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1jAWTG' to '/alumnimemories//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:47:23 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:47:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdJ87RE' to '/alumnimemories//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:54:38 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:54:38 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:54:38 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:54:38 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:54:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:54:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjumT4v' to '/alumnimemories//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  move_uploaded_file(/alumnimemories//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMXXE1h' to '/alumnimemories//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 42
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 11:58:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 96
+[26-Dec-2016 12:30:10 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/velunivtech123/public_html/alumnireg/saveimage.php on line 14
+[26-Dec-2016 13:58:10 UTC] PHP Parse error:  syntax error, unexpected '$file' (T_VARIABLE), expecting ',' or ';' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 53
+[26-Dec-2016 13:58:56 UTC] PHP Warning:  move_uploaded_file(/alumnimemories/Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[26-Dec-2016 13:58:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDqaqOv' to '/alumnimemories/Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[26-Dec-2016 14:12:00 UTC] PHP Warning:  move_uploaded_file(/alumnimemories/Chrysanthemum.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[26-Dec-2016 14:12:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpf9XU4H' to '/alumnimemories/Chrysanthemum.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[26-Dec-2016 14:18:16 UTC] PHP Warning:  move_uploaded_file(/alumnimemories/): failed to open stream: Is a directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[26-Dec-2016 14:18:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqby3L0' to '/alumnimemories/' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//Desert.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 35
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJxALI9' to '/vtueee2017/admission/upload//Desert.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 35
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//Jellyfish.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 38
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfTmfPC' to '/vtueee2017/admission/upload//Jellyfish.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 38
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:17:25 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvC3zHU' to '/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIt0r6G' to '/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:24:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:25:02 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPYQLdg' to '/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:02 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnqYAdX' to '/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:14 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpM7MMii' to '/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:14 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF0kLGo' to '/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:20 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php672A8B' to '/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:20 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeNnixV' to '/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php14Z8o0' to '/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHwzj2R' to '/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:25:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:26:28 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:26:28 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDBG1Aw' to '/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:26:28 UTC] PHP Warning:  move_uploaded_file(/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:26:28 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgXsRQd' to '/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  move_uploaded_file(/public_html/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQvhuYf' to '/public_html/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  move_uploaded_file(/public_html/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphziUQO' to '/public_html/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:27:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  move_uploaded_file(/public_html/vtueee2017/admission/upload//p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8MsnWX' to '/public_html/vtueee2017/admission/upload//p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 33
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  move_uploaded_file(/public_html/vtueee2017/admission/upload//s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpd8VuNz' to '/public_html/vtueee2017/admission/upload//s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 36
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:28:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:32:08 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:32:08 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:32:08 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:32:08 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 75
+[27-Dec-2016 04:32:08 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:32:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:36:50 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:36:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 76
+[27-Dec-2016 04:48:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/velunivtech123/public_html/alumnireg/alumni_upload.php:20) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 80
+[27-Dec-2016 05:53:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 107
+[27-Dec-2016 05:53:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 97
+[27-Dec-2016 05:53:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 107
+[28-Dec-2016 05:06:14 UTC] PHP Warning:  move_uploaded_file(/alumnimemories/p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 40
+[28-Dec-2016 05:06:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfE9T4h' to '/alumnimemories/p.JPG' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 40
+[28-Dec-2016 05:06:14 UTC] PHP Warning:  move_uploaded_file(/alumnimemories/s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[28-Dec-2016 05:06:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxk5C6k' to '/alumnimemories/s.jpg' in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 47
+[28-Dec-2016 06:11:48 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/velunivtech123/public_html/alumnireg/alumni_upload.php on line 131
+[02-Jan-2017 14:47:48 UTC] PHP Warning:  POST Content-Length of 11924483 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jan-2017 14:49:34 UTC] PHP Warning:  POST Content-Length of 11924483 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jan-2017 14:49:47 UTC] PHP Warning:  POST Content-Length of 11924483 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jan-2017 14:49:50 UTC] PHP Warning:  POST Content-Length of 11924483 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jan-2017 14:49:53 UTC] PHP Warning:  POST Content-Length of 11924483 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jan-2017 14:49:54 UTC] PHP Warning:  POST Content-Length of 11924483 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Jan-2017 08:41:46 UTC] PHP Warning:  POST Content-Length of 9123127 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Jan-2017 08:45:56 UTC] PHP Warning:  POST Content-Length of 9123127 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Jan-2017 11:25:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisr.php on line 213
+[06-Jan-2017 18:10:30 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisr.php on line 164
+[07-Jan-2017 04:59:30 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/velunivtech123/public_html/vtueee2017/admission/ISR/nxtfrm.php on line 206
+[07-Jan-2017 04:59:30 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/velunivtech123/public_html/vtueee2017/admission/ISR/nxtfrm.php on line 206
+[07-Jan-2017 06:26:11 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:26:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWACalv' to '../vtueee2017/admission/uploadisr/p.JPG' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:26:11 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:26:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSP1XmA' to '../vtueee2017/admission/uploadisr/s.jpg' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:36:30 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:36:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKu3MSN' to '../vtueee2017/admission/uploadisr/p.JPG' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:36:30 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:36:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTZrp0G' to '../vtueee2017/admission/uploadisr/s.jpg' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:38:13 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:38:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpibnf28' to '../vtueee2017/admission/uploadisr/p.JPG' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:38:13 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:38:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkzPnwE' to '../vtueee2017/admission/uploadisr/s.jpg' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:38:45 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:38:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0T9YId' to '../vtueee2017/admission/uploadisr/p.JPG' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:38:45 UTC] PHP Warning:  move_uploaded_file(../vtueee2017/admission/uploadisr/s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:38:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpggQjRP' to '../vtueee2017/admission/uploadisr/s.jpg' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:49:35 UTC] PHP Warning:  move_uploaded_file(../../vtueee2017/admission/uploadisr/p.JPG): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:49:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpw6hjTz' to '../../vtueee2017/admission/uploadisr/p.JPG' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 189
+[07-Jan-2017 06:49:35 UTC] PHP Warning:  move_uploaded_file(../../vtueee2017/admission/uploadisr/s.jpg): failed to open stream: No such file or directory in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 06:49:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsAxg16' to '../../vtueee2017/admission/uploadisr/s.jpg' in /home/velunivtech123/public_html/vtueee2017/admission/ISR/addisrnxtfrm.php on line 196
+[07-Jan-2017 07:18:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 149
+[07-Jan-2017 07:20:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 149
+[07-Jan-2017 07:21:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 149
+[07-Jan-2017 07:23:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 149
+[07-Jan-2017 07:24:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 145
+[07-Jan-2017 07:29:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 145
+[07-Jan-2017 07:30:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 145
+[07-Jan-2017 07:30:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 145
+[07-Jan-2017 07:34:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 210
+[07-Jan-2017 07:35:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 210
+[07-Jan-2017 07:38:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/velunivtech123/public_html/vtueee2017/admission/ISR/isrdata.php on line 196
+[10-Jan-2017 11:12:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 261
+[10-Jan-2017 11:14:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 263
+[10-Jan-2017 11:16:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 261
+[10-Jan-2017 11:17:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 260
+[10-Jan-2017 11:18:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 175
+[10-Jan-2017 11:20:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 174
+[10-Jan-2017 16:59:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/velunivtech123/public_html/VISAI17/addvisai17.php:173) in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 175
+[10-Jan-2017 12:25:14 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/velunivtech123/public_html/VISAI17/visai17data.php on line 335
+[10-Jan-2017 12:44:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/velunivtech123/public_html/VISAI17/addvisai17.php on line 237
+[12-Jan-2017 12:56:40 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/velunivtech123/public_html/ncssta2017/reg/paymentncssta.php on line 28
+[23-Jan-2017 06:20:44 UTC] PHP Parse error:  syntax error, unexpected 'Refresh' (T_STRING) in /home/velunivtech123/public_html/ncssta2017/reg/res.php on line 261
+[08-Jul-2017 04:38:15 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/velunivtech123/public_html/icstm2017/reg/res.php on line 65
+[08-Jul-2017 04:38:44 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/velunivtech123/public_html/icstm2017/reg/res.php on line 85
+[06-Feb-2018 05:34:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicstm.php on line 14
+[06-Feb-2018 05:41:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 05:42:04 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/velunivtech123/public_html/international/icetm18/res.php on line 65
+[06-Feb-2018 06:05:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 06:51:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 06:59:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 07:01:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 07:01:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 07:04:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 07:24:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[06-Feb-2018 07:28:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[08-Feb-2018 05:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/velunivtech123/public_html/international/icetm18/addicetm.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[08-Feb-2018 05:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/velunivtech123/public_html/international/icetm18/addicetm.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[08-Feb-2018 05:27:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/velunivtech123/public_html/international/icetm18/addicetm.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 14
+[08-Feb-2018 05:28:14 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 15
+[08-Feb-2018 05:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/velunivtech123/public_html/international/icetm18/addicetm.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 60
+[13-Feb-2018 13:33:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 109
+[14-Feb-2018 10:42:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/velunivtech123/public_html/international/icetm18/addicetm.php on line 109
+[20-Jul-2018 07:45:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/velunivtech123/public_html/conferences/icdmc2019/addicetm.php on line 14
+[20-Jul-2018 07:45:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/velunivtech123/public_html/conferences/icdmc2019/addicetm.php on line 14
+[20-Jul-2018 07:51:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 15
+[20-Jul-2018 08:09:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 202
+[20-Jul-2018 08:11:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 184
+[20-Jul-2018 08:11:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 184
+[20-Jul-2018 08:13:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/velunivtech123/public_html/conferences/icdmc2019/print.php:2) in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 5
+[20-Jul-2018 08:13:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 32
+[20-Jul-2018 08:14:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/velunivtech123/public_html/conferences/icdmc2019/print.php on line 30
